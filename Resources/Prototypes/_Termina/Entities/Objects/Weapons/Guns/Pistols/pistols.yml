@@ -9,7 +9,7 @@
   - type: Item
     storedOffset: 0,-2
   - type: Gun
-    firerate: 12
+    fireRate: 12
     availableModes:
     - SemiAuto
     soundGunshot:
