@@ -16,7 +16,7 @@
 <!-- You should understand that not following the above may get your PR closed at maintainer’s discretion -->
 
 ## Licensing:
-<!-- IDK WHAT LISCENSE WE ARE USING -->
+<!-- TODO: write dis -->
 
 ## Breaking changes
 <!-- List any breaking changes, including namespaces, public class/method/field changes, prototype renames; and provide instructions for fixing them. -->
