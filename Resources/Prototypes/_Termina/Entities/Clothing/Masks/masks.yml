@@ -1,0 +1,18 @@
+- type: entity
+  parent: ClothingMaskClownBase
+  id: ClothingMaskJuggalo
+  name: juggalo mask
+  description: makes you want to break into your neighbors house because a ghost told you to
+  components:
+  - type: Sprite
+    sprite: _Termina/Clothing/Mask/juggalo.rsi
+  - type: Clothing
+    sprite: _Termina/Clothing/Mask/juggalo.rsi
+  - type: Tag
+    tags:
+    - ClownMask
+    - HamsterWearable
+    - WhitelistChameleon
+  - type: HideLayerClothing
+    slots:
+    - Snout
