@@ -84,9 +84,11 @@
     - id: BoxSyringe
     - id: BoxBeaker
     - id: BoxBeaker
-      prob: 0.3
+      prob: 0.5 # Termina
     - id: BoxPillCanister
     - id: BoxBottle
+    - id: SheetPlasma1 # Termina
+      prob: 0.5 # Termina
     - id: BoxVial
     - id: PlasmaChemistryVial
     - id: ChemBag
@@ -94,7 +96,7 @@
     - id: ClothingHeadsetMedical
     - id: ClothingMaskSterile
     - id: HandLabeler
-      prob: 0.5
+      #prob: 0.5 #Termina
 
 - type: entity
   parent: LockerChemistry
