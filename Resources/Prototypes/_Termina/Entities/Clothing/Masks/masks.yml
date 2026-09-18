@@ -16,3 +16,4 @@
   - type: HideLayerClothing
     slots:
     - Snout
+    # TODO: Resprite the mask to cover noses of all/most species and make specific extended sprites for vox and whatever
